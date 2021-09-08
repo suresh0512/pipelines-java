@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/citsureshkumar/JavaProject/_apis/build/status/JavaProject?branchName=master)](https://dev.azure.com/citsureshkumar/JavaProject/_build/latest?definitionId=11&branchName=master)
 
 # Contributing
 
